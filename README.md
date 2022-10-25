@@ -1,4 +1,4 @@
-###Scrimba Meme Generator
+# Scrimba-Meme-Generator
 
 A code-a-long project exploring event listeners, state, conditional rendering, forms and side effects with Scrimba. 
 
